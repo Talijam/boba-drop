@@ -1,0 +1,10 @@
+body {
+
+    background-color: rgb(169, 164, 206);
+    text-align:center;
+    color: rgb(22, 24, 24);
+    font-family: "Courier New" , Courier, monospace;
+}
+img {
+    border-radius:20px;
+}
